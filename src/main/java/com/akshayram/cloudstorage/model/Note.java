@@ -1,4 +1,4 @@
-package com.udacity.jwdnd.course1.cloudstorage.model;
+package com.akshayram.cloudstorage.model;
 
 public class Note {
   private Integer noteId;

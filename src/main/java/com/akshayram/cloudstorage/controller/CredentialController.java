@@ -1,9 +1,9 @@
-package com.udacity.jwdnd.course1.cloudstorage.controller;
+package com.akshayram.cloudstorage.controller;
 
-import com.udacity.jwdnd.course1.cloudstorage.model.*;
-import com.udacity.jwdnd.course1.cloudstorage.services.CredentialService;
-import com.udacity.jwdnd.course1.cloudstorage.services.EncryptionService;
-import com.udacity.jwdnd.course1.cloudstorage.services.UserService;
+import com.akshayram.cloudstorage.model.*;
+import com.akshayram.cloudstorage.services.CredentialService;
+import com.akshayram.cloudstorage.services.EncryptionService;
+import com.akshayram.cloudstorage.services.UserService;
 import java.security.SecureRandom;
 import java.util.Base64;
 import org.springframework.beans.factory.annotation.Autowired;

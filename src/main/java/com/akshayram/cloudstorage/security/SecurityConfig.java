@@ -1,4 +1,4 @@
-package com.udacity.jwdnd.course1.cloudstorage.security;
+package com.akshayram.cloudstorage.security;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;

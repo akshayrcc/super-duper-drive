@@ -1,8 +1,8 @@
-package com.udacity.jwdnd.course1.cloudstorage.services;
+package com.akshayram.cloudstorage.services;
 
-import com.udacity.jwdnd.course1.cloudstorage.mapper.FileMapper;
-import com.udacity.jwdnd.course1.cloudstorage.mapper.UserMapper;
-import com.udacity.jwdnd.course1.cloudstorage.model.File;
+import com.akshayram.cloudstorage.mapper.FileMapper;
+import com.akshayram.cloudstorage.mapper.UserMapper;
+import com.akshayram.cloudstorage.model.File;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.io.InputStream;

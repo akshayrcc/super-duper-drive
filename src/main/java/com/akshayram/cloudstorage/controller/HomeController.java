@@ -1,10 +1,10 @@
-package com.udacity.jwdnd.course1.cloudstorage.controller;
+package com.akshayram.cloudstorage.controller;
 
-import com.udacity.jwdnd.course1.cloudstorage.model.CredentialForm;
-import com.udacity.jwdnd.course1.cloudstorage.model.FileForm;
-import com.udacity.jwdnd.course1.cloudstorage.model.NoteForm;
-import com.udacity.jwdnd.course1.cloudstorage.model.User;
-import com.udacity.jwdnd.course1.cloudstorage.services.*;
+import com.akshayram.cloudstorage.model.CredentialForm;
+import com.akshayram.cloudstorage.model.FileForm;
+import com.akshayram.cloudstorage.model.NoteForm;
+import com.akshayram.cloudstorage.model.User;
+import com.akshayram.cloudstorage.services.*;
 import java.io.IOException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;

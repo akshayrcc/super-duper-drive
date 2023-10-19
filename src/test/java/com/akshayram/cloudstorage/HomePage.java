@@ -1,7 +1,7 @@
-package com.udacity.jwdnd.course1.cloudstorage;
+package com.akshayram.cloudstorage;
 
-import com.udacity.jwdnd.course1.cloudstorage.model.Credential;
-import com.udacity.jwdnd.course1.cloudstorage.model.Note;
+import com.akshayram.cloudstorage.model.Credential;
+import com.akshayram.cloudstorage.model.Note;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;

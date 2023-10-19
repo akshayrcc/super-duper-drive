@@ -1,8 +1,8 @@
-package com.udacity.jwdnd.course1.cloudstorage.services;
+package com.akshayram.cloudstorage.services;
 
-import com.udacity.jwdnd.course1.cloudstorage.mapper.CredentialMapper;
-import com.udacity.jwdnd.course1.cloudstorage.mapper.UserMapper;
-import com.udacity.jwdnd.course1.cloudstorage.model.Credential;
+import com.akshayram.cloudstorage.mapper.CredentialMapper;
+import com.akshayram.cloudstorage.mapper.UserMapper;
+import com.akshayram.cloudstorage.model.Credential;
 import org.springframework.stereotype.Service;
 
 @Service

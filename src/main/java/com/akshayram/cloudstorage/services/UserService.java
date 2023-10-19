@@ -1,7 +1,7 @@
-package com.udacity.jwdnd.course1.cloudstorage.services;
+package com.akshayram.cloudstorage.services;
 
-import com.udacity.jwdnd.course1.cloudstorage.mapper.UserMapper;
-import com.udacity.jwdnd.course1.cloudstorage.model.User;
+import com.akshayram.cloudstorage.mapper.UserMapper;
+import com.akshayram.cloudstorage.model.User;
 import java.security.SecureRandom;
 import java.util.Base64;
 import org.springframework.stereotype.Service;

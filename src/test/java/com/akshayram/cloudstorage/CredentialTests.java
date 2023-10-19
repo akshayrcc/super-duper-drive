@@ -1,6 +1,6 @@
-package com.udacity.jwdnd.course1.cloudstorage;
+package com.akshayram.cloudstorage;
 
-import com.udacity.jwdnd.course1.cloudstorage.model.Credential;
+import com.akshayram.cloudstorage.model.Credential;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
